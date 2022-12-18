@@ -4,5 +4,9 @@ Keyboard I used: Quefrency Rev 3 https://keeb.io/collections/quefrency-split-sta
 
 Required hardware:
 4x m2x6 bolts
+
 2x m3x8 bolts (m3x10 works too)
+
+2x m3 locknuts
+
 Apropriate tool for installation
